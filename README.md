@@ -1,6 +1,7 @@
 # 🛡️ OWASP-Based Website Security Testing Checklist
 
 A comprehensive checklist for manual website security testing based on OWASP standards. Designed for both **beginners** and **professionals**.
+Also i have added some hints with the checklists to do your work more faster and easier.
 
 ---
 
